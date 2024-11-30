@@ -1,0 +1,5 @@
+x=float(input("enter the value of x: "))
+y=float(input("enter the value of y: "))
+z=float(input("enter the value of z: "))
+ans=(x**3) + (4*(y**4)) + z + (6*3.14)
+print("ans is:" , ans)
